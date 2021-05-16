@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankur035/" target="blank"><img align="center" src="https://github.com/paul035/paul035/blob/main/images/linkedin.png" alt="https://www.linkedin.com/in/ankur035/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9129342/paul035" target="blank"><img align="center" src="https://github.com/paul035/paul035/blob/main/images/stack-overflow.png" alt="https://stackoverflow.com/users/9129342/paul035" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ankur035/articles" target="blank"><img align="center" src="https://github.com/paul035/paul035/blob/main/images/geeks-for-geeks.png" alt="https://auth.geeksforgeeks.org/user/ankur035/articles" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankur035/" target="blank"><img align="center" src="https://github.com/paul035/paul035/blob/main/images/linkedin.png" alt="https://www.linkedin.com/in/ankur035/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9129342/paul035" target="blank"><img align="center" src="https://github.com/paul035/paul035/blob/main/images/stack-overflow.png" alt="https://stackoverflow.com/users/9129342/paul035" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ankur035/articles" target="blank"><img align="center" src="https://github.com/paul035/paul035/blob/main/images/geeks-for-geeks.png" alt="https://auth.geeksforgeeks.org/user/ankur035/articles" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
