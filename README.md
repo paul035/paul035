@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul035&label=Profile%20views&color=0e75b6&style=flat" alt="paul035" /> </p>
 
-- 📝 I write articles on [https://auth.geeksforgeeks.org/user/ankur035/articles](https://auth.geeksforgeeks.org/user/ankur035/articles)
+- 📝 I write articles on [https://auth.geeksforgeeks.org/user/ankur035/articles](https://auth.geeksforgeeks.org/user/ankur035/articles) target="_blank"
 
 - 💬 Ask me about **Android, Java**
 
